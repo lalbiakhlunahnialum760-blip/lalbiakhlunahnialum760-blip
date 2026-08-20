@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Lalbiakhluna 👋
 
-<!--
-**lalbiakhlunahnialum760-blip/lalbiakhlunahnialum760-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **GCP & AI Developer** | Building scalable web applications with Google Cloud Platform and Vertex AI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, HTML/CSS
+- **Cloud Platform:** Google Cloud Platform (GCP)
+- **AI / ML:** Vertex AI (Gemini 1.5 Flash), Prompt Engineering
+- **Backend Framework:** Flask, REST APIs
+- **Database:** Google Cloud Firestore
+
+---
+
+### 📌 Featured Project
+- **[AI Job Application Tracker](https://github.com/lalbiakhlunahnialum760-blip/AI-job-tracket):** Automated Career Optimization app using GCP Vertex AI and Flask.
+
+---
+
+📫 **Connect with me:**
+- Location: Lawngtlai, India
+ 
